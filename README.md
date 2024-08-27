@@ -1,4 +1,4 @@
-# Tracing the Spatial Origins and Spread of Omicron Lineages in South Africa
+# Tracing the Spatial Origins and Spread of SARS-CoV-2 Omicron Lineages in South Africa
 
 *Graeme Dor<sup>1</sup>, Eduan Wilkinson<sup>1,2</sup>, Darren P. Martin<sup>3</sup>, Monika Moir<sup>1</sup>, Derek Tshiabuila<sup>1</sup>, Dikeledi Kekana<sup>4</sup>, Buhle Ntozini<sup>4</sup>, Rageema Joseph<sup>5</sup>, Arash Iranzadeh<sup>6</sup>, Martin M. Nyaga<sup>7</sup>, Dominique Goedhals<sup>8,9</sup>, Tongai Maponga<sup>10,11</sup>, Jean Maritz<sup>11,12</sup>, Oluwakemi Laguda-Akingba<sup>13,14</sup>, Yajna Ramphal<sup>1</sup>, Caitlin MacIntyre<sup>15</sup>, Lucious Chabuka<sup>1</sup>, Sureshnee Pillay<sup>1</sup>, Jeniffer Giandhari<sup>1</sup>, Cheryl Baxter<sup>1</sup>, Nei-yuan Hsiao<sup>5,16</sup>, Wolfgang Preiser<sup>5,16</sup>, Jinal N. Bhiman<sup>4,17</sup>, Mary-Anne Davies<sup>18,19</sup>, Marietjie Venter<sup>15,20</sup>, Florette K. Treurnicht<sup>4,21</sup>, Nicole Wolter<sup>4,21</sup>, Carolyn Williamson<sup>16,22</sup>, Anne von Gottberg<sup>4,21,23</sup>, Richard Lessells<sup>2</sup>, Houriiyah Tegally<sup>1</sup>, Tulio de Oliveira<sup>1,2</sup>*
 
