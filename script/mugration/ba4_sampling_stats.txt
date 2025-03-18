@@ -1,0 +1,112 @@
+# Sampling proportion: 0.044872
+# Seed for pseudo-random sampling: 4001
+
+# A total of 5000 sequences selected from 99 locations
+
+2	ABW
+3	ALB
+18	ARG
+158	AUS
+100	AUT
+57	BEL
+2	BGD
+20	BHR
+10	BOL
+149	BRA
+1	BRB
+8	BRN
+38	BWA
+100	CAN
+20	CHE
+128	CHL
+7	CHN
+5	CIV
+2	CMR
+30	COL
+7	CPV
+9	CRI
+8	CYP
+38	CZE
+205	DEU
+92	DNK
+11	DOM
+7	ECU
+47	ESP
+5	EST
+16	ETH
+16	FIN
+146	FRA
+410	GBR
+6	GEO
+26	GHA
+56	GRC
+10	GTM
+29	HKG
+38	HRV
+8	HTI
+1	HUN
+42	IDN
+53	IND
+81	IRL
+144	ISR
+137	ITA
+8	JAM
+68	JPN
+45	KEN
+63	KOR
+3	LBN
+7	LSO
+48	LUX
+21	LVA
+6	MAR
+1	MCO
+56	MEX
+1	MNE
+22	MOZ
+17	MUS
+11	MWI
+27	MYS
+2	MYT
+26	NAM
+3	NGA
+97	NLD
+34	NOR
+82	NZL
+16	PAK
+15	PAN
+62	PER
+26	PHL
+7	POL
+22	PRT
+33	QAT
+11	REU
+2	ROU
+11	RUS
+3	SAU
+81	SGP
+21	SVK
+28	SVN
+30	SWE
+25	SWZ
+3	SYC
+6	TGO
+59	THA
+7	TTO
+3	TUN
+3	TUR
+1	TWN
+13	UGA
+7	URY
+1067	USA
+2	VNM
+248	ZAF
+21	ZMB
+13	ZWE
+
+
+# A total of 0 were removed due to lack of metadata, or as listed in remove.txt
+
+
+
+# A total of 0 samples were forcibly added as listed in keep.txt
+
