@@ -1,0 +1,18 @@
+# Sampling proportion: 0.0425
+# Seed for pseudo-random sampling: 1001
+
+# A total of 200 sequences selected from 5 locations
+
+8	BWA
+3	MOZ
+22	NAM
+17	SWZ
+150	ZAF
+
+
+# A total of 0 were removed due to lack of metadata, or as listed in remove.txt
+
+
+
+# A total of 0 samples were forcibly added as listed in keep.txt
+
