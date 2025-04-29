@@ -1,0 +1,770 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K036980/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K037619/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K037633/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N37417/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N37125/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K038907/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K038934/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K038942/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N38274/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N37970/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039358/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039364/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039368/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039369/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039372/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_4473/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039748/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039750/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039829/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N38566/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040026/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040032/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040041/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39085/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39180/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39383/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39208/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39260/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39412/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39415/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39436/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40224/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40225/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K039892/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_4705/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NCV1184/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NCV1191/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NCV1197/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39463/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39511/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N38792/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N38821/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39817/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040284/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040311/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040428/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K040457/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40101/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39878/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K041500/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K041514/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_4852/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_4996/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_4920/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41123/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41176/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40233/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40850/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042440/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042445/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K041941/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K041979/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K041994/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40741/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40959/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41319/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41334/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41498/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41541/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41554/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41565/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N40532/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-CRDM05242/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-R05219/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/SU-NHLS_5073/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042636/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40415/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40459/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40417/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40435/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40451/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40392/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40450/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40465/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40447/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40393/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40409/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40472/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40396/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40413/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40461/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40468/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40469/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N40408/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41653/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41662/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41807/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41292/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41215/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42628/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NCV1538/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NCV1494/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043296/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043347/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043356/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043424/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043465/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42710/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N39978/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N43890/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N43899/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N43907/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03243/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03260/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03265/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03266/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03267/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03278/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03283/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03292/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03295/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03303/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03325/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03326/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03327/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03333/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI_M03334/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/UFS-ONT140622NB73/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/UFS-ONT140622NB44/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/UFS-ONT140622NB69/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/UFS-ONT140622NB82/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Botswana/R133B55_BHP_1056384/2022">
+			<attr name="country">Botswana</attr>
+		</taxon>
+		<taxon id="hCoV-19/Botswana/R133B56_BHP_1056382/2022">
+			<attr name="country">Botswana</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI-M03247/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/ILRI-M03274/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043516/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42332/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42481/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42491/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42510/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42514/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N42547/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N43245/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-R06391/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N47171/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042748/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042809/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N46317/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41747/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N41756/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N43934/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45479/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45528/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45547/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45612/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N44998/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45673/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45706/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45725/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45770/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47797/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47798/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47807/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47818/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47821/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47828/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47830/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47831/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47833/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47845/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47848/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47863/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47871/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47872/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47877/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47878/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47880/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47883/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47885/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N47886/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K043737/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N44689/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N45440/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-N44769/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Lesotho/N47920/2022">
+			<attr name="country">Lesotho</attr>
+		</taxon>
+		<taxon id="hCoV-19/Lesotho/N47922/2022">
+			<attr name="country">Lesotho</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/CERI-KRISP-K042242/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/SouthAfrica/NICD-R05462/2022">
+			<attr name="country">SouthAfrica</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50589/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50594/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50603/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50606/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50607/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50616/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50617/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50620/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50629/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50667/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N50677/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+		<taxon id="hCoV-19/Eswatini/N52499/2022">
+			<attr name="country">Eswatini</attr>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="country.dataType">
+		<state code="Botswana"/>
+		<state code="Eswatini"/>
+		<state code="Lesotho"/>
+		<state code="SouthAfrica"/>
+	</generalDataType>
+	<attributePatterns id="country.pattern" attribute="country">
+		<taxa idref="taxa"/>
+		<generalDataType idref="country.dataType"/>
+	</attributePatterns>
+
+	<empiricalTreeDistributionModel id="treeModel" fileName="ba5_SA_gtr_strict_exp_CT.trees">
+		<taxa idref="taxa"/>
+	</empiricalTreeDistributionModel>
+	<statistic id="treeModel.currentTree" name="Current Tree">
+		<empiricalTreeDistributionModel idref="treeModel"/>
+	</statistic>
+
+	<strictClockBranchRates id="country.branchRates">
+		<rate>
+			<parameter id="country.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<generalSubstitutionModel id="country.model">
+		<generalDataType idref="country.dataType"/>
+		<frequencies>
+			<frequencyModel id="country.frequencyModel" normalize="true">
+				<generalDataType idref="country.dataType"/>
+				<frequencies>
+					<parameter id="country.frequencies" dimension="4"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="country.rates" dimension="12" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="country.indicators" dimension="12" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="country.nonZeroRates" elementwise="true">
+		<parameter idref="country.indicators"/>
+	</sumStatistic>
+	<siteModel id="country.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="country.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<frequencyModel id="country.root.frequencyModel" normalize="true">
+		<generalDataType idref="country.dataType"/>
+		<frequencies>
+			<parameter id="country.root.frequencies" dimension="4"/>
+		</frequencies>
+	</frequencyModel>
+
+	<markovJumpsTreeLikelihood id="country.treeLikelihood" stateTagName="country.states">
+		<attributePatterns idref="country.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="country.siteModel"/>
+		<generalSubstitutionModel idref="country.model"/>
+		<strictClockBranchRates idref="country.branchRates"/>
+		<frequencyModel idref="country.root.frequencyModel"/>
+	</markovJumpsTreeLikelihood>
+
+	<prior id="prior">
+		<distributionLikelihood>
+			<distribution>
+				<exponentialDistributionModel>
+					<mean>
+						<parameter id="country.clock.rate.exp.mean" value="1"/>
+					</mean>
+				</exponentialDistributionModel>
+			</distribution>
+			<data>
+				<parameter idref="country.clock.rate"/>
+			</data>
+		</distributionLikelihood>
+		<gammaPrior shape="0.5" scale="2" offset="0.0">
+			<parameter idref="country.clock.rate.exp.mean"/>
+		</gammaPrior>
+		<poissonPrior mean="6" offset="0">
+			<statistic idref="country.nonZeroRates"/>
+		</poissonPrior>
+		<uniformPrior lower="0.0" upper="1.0">
+			<parameter idref="country.root.frequencies"/>
+		</uniformPrior>
+		<cachedPrior>
+			<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+				<parameter idref="country.rates"/>
+			</gammaPrior>
+			<parameter idref="country.rates"/>
+		</cachedPrior>
+		<generalSubstitutionModel idref="country.model"/>
+	</prior>
+
+	<operators id="operators" optimizationSchedule="log">
+		<empiricalTreeDistributionOperator weight="30" metropolisHastings="true">
+			<empiricalTreeDistributionModel idref="treeModel"/>
+		</empiricalTreeDistributionOperator>
+		<scaleOperator scaleFactor="0.75" weight="8">
+			<parameter idref="country.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="4">
+			<parameter idref="country.clock.rate.exp.mean"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="10" scaleAllIndependently="true">
+			<parameter idref="country.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="country.indicators"/>
+		</bitFlipOperator>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="country.root.frequencies"/>
+		</deltaExchange>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="50000000" autoOptimize="true">
+		<posterior id="posterior">
+		<prior idref="prior"/>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="country.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="10000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="country.clock.rate"/>
+			<sumStatistic idref="country.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="10000" fileName="ba5_SA_gtr_strict_exp_CT_country_posterior_run2.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="country.root.frequencies"/>
+			<parameter idref="country.clock.rate.exp.mean"/>
+			<parameter idref="country.clock.rate"/>
+			<parameter idref="country.rates"/>
+			<parameter idref="country.indicators"/>
+			<sumStatistic idref="country.nonZeroRates"/>
+			<statistic idref="treeModel.currentTree"/>
+			<markovJumpsTreeLikelihood idref="country.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="ba5_SA_gtr_strict_exp_CT_country_posterior_run2.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<posterior idref="posterior"/>
+			<trait name="country.states" tag="country">
+				<ancestralTreeLikelihood idref="country.treeLikelihood"/>
+			</trait>
+		</logTree>
+	</mcmc>
+
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>
